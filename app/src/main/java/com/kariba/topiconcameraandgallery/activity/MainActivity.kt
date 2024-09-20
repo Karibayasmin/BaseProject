@@ -1,10 +1,10 @@
 package com.kariba.topiconcameraandgallery.activity
 
 import android.os.Bundle
-import androidx.activity.ComponentActivity
 import com.example.topiconcameraandgallery.databinding.ActivityMainBinding
+import com.kariba.topiconcameraandgallery.core.BaseActivity
 
-class MainActivity : ComponentActivity() {
+class MainActivity : BaseActivity() {
 
     lateinit var activityBinding : ActivityMainBinding
 
@@ -13,5 +13,20 @@ class MainActivity : ComponentActivity() {
 
         activityBinding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(activityBinding.root)
+
+        setSupportActionBar(activityBinding.toolbar.root)
+
+    }
+
+    override fun observeViewModelEvents() {
+
+    }
+
+    override fun observeClickEvents() {
+
+    }
+
+    override fun setUpView(savedInstanceState: Bundle?) {
+
     }
 }
