@@ -1,4 +1,4 @@
-package com.example.topiconcameraandgallery
+package com.kariba.topiconcameraandgallery
 
 import org.junit.Test
 

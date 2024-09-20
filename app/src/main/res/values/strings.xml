@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Topic on Camera and Gallery</string>
+
+    <!--Toolbar-->
+    <string name="camera_and_gellery">Camera and Gellery</string>
+
 </resources>
