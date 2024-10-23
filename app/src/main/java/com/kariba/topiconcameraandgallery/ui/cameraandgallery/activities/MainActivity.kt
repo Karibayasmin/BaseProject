@@ -1,4 +1,4 @@
-package com.kariba.topiconcameraandgallery.activity
+package com.kariba.topiconcameraandgallery.ui.cameraandgallery.activities
 
 import android.os.Bundle
 import com.example.topiconcameraandgallery.databinding.ActivityMainBinding

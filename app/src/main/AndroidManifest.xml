@@ -16,7 +16,7 @@
             android:name="com.kariba.topiconcameraandgallery.core.BaseActivity"
             android:exported="false" />
         <activity
-            android:name="com.kariba.topiconcameraandgallery.activity.MainActivity"
+            android:name="com.kariba.topiconcameraandgallery.ui.cameraandgallery.activities.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.AppCompat">
