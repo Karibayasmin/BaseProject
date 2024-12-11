@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.kariba.topiconcameraandgallery.ui.cameraandgallery.fragments.GalleryFragment">
+    tools:context="com.kariba.baseproject.ui.feature1.fragments.GalleryFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Topic on Camera and Gallery</string>
+    <string name="app_name">Base Project</string>
 
     <!--Toolbar-->
     <string name="camera_and_gellery">Camera and Gellery</string>

@@ -1,4 +1,4 @@
-package com.kariba.topiconcameraandgallery.ui.cameraandgallery.fragments
+package com.kariba.baseproject.ui.feature1.fragments
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

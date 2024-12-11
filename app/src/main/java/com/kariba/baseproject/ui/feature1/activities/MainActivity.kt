@@ -1,8 +1,8 @@
-package com.kariba.topiconcameraandgallery.ui.cameraandgallery.activities
+package com.kariba.baseproject.ui.feature1.activities
 
 import android.os.Bundle
 import com.example.topiconcameraandgallery.databinding.ActivityMainBinding
-import com.kariba.topiconcameraandgallery.core.BaseActivity
+import com.kariba.baseproject.core.BaseActivity
 
 class MainActivity : BaseActivity() {
 

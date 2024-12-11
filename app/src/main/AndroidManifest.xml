@@ -13,10 +13,10 @@
         android:theme="@style/Theme.AppCompat"
         tools:targetApi="31">
         <activity
-            android:name="com.kariba.topiconcameraandgallery.core.BaseActivity"
+            android:name="com.kariba.baseproject.core.BaseActivity"
             android:exported="false" />
         <activity
-            android:name="com.kariba.topiconcameraandgallery.ui.cameraandgallery.activities.MainActivity"
+            android:name="com.kariba.baseproject.ui.feature1.activities.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.AppCompat">
